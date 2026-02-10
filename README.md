@@ -53,12 +53,17 @@ Question 4: DEVELOPMENT PROCESS
 1.How did you plan your website structure? 
 
 - Sketched page sections
+- 
 - listed required HTML elements
+  
 - planned semantic structure
 
 2.What was your approach to testing and debugging?
+
 -opened the file in a browser and saved and refureshed the page
+
 -Fixed broken links and tags
+
 -checked form behaviour
 
 3.What challenges did you face?
@@ -101,9 +106,13 @@ and fixed all reposted errors and warnings.
 2.What best practices did you follow for writing clean,readable code?
 
 -Proper indentation and formatting
+
 -Meaningful elements names and structures
+
 -use of semantic HTML
+
 -consistent naming conventions
+
 -adding comments where necessary
 
 3.How would you improve your website if you had more time?
