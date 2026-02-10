@@ -14,9 +14,13 @@ Question 2:HTML ELEMENTS
 1.Which 5 elements did you find most challenging to implement and why?
 
 <table>-required proper structure (thead,tbody)
+  
 <form></form> -needed correct input types
+
 <nav></nav> -organizing links clearly
+
 <section></section> -structuring content meaningfully
+
 <article></article>- deciding what content fits inside
 
 2.How did you use of semantic elements?
