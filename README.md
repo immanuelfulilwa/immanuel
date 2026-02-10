@@ -82,6 +82,7 @@ git push
 -enables collaboration
 
 Question 6: CODE QUALITY AND BEST PRACTICES
+
 1.how did you ensure your HTML was error free?
 -I validated the HTML using the W3C HTML Validator
 and fixed all reposted errors and warnings.
