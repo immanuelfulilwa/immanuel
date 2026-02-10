@@ -1,5 +1,6 @@
 # immanuelfulilwa
 Question 1:WEBSITE CREATION
+
 A personal portflio website
 >Personal profile
 >About me
@@ -60,12 +61,16 @@ Question 4: DEVELOPMENT PROCESS
 -Fixed broken links and tags
 -checked form behaviour
 
-3.What challenges did you face? 
-Missing attributes= validated manually
-Nested elements incorrectly =fixed using proper indention
+3.What challenges did you face?
+
+Missing attributes- validated manually
+
+Nested elements incorrectly -fixed using proper indention
 
 Question 5: GIT AND GITHUB IMPLEMENTATION
-1.What Git commands did you use? 
+
+1.What Git commands did you use?
+
 git init
 git add .
 git  commit-m "initial commit"
@@ -73,21 +78,28 @@ git remote orgin main
 git push
 
 2.How many Commits did you make and what was your strategy?
+
 -made 3-5 commits
+
 -used clear messages
 
 3.Why is version control Important?
+
 -tracks changes
+
 -prevents data loss
+
 -enables collaboration
 
 Question 6: CODE QUALITY AND BEST PRACTICES
 
 1.how did you ensure your HTML was error free?
+
 -I validated the HTML using the W3C HTML Validator
 and fixed all reposted errors and warnings.
 
 2.What best practices did you follow for writing clean,readable code?
+
 -Proper indentation and formatting
 -Meaningful elements names and structures
 -use of semantic HTML
@@ -95,6 +107,7 @@ and fixed all reposted errors and warnings.
 -adding comments where necessary
 
 3.How would you improve your website if you had more time?
+
 I would implement CSS for modern layout and add JavaSpcript to make the
 contact form interactive.
 
