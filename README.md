@@ -1,4 +1,6 @@
-# immanuelfulilwa
+NAME: IMMANUEL FULILWA
+STUDENT NUMBER: 2408284924
+GIT REPORSITORY: https://github.com/immanuelfulilwa/immanuel
 Question 1:WEBSITE CREATION
 
 A personal portflio website
