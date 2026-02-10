@@ -57,7 +57,7 @@ Question 4: DEVELOPMENT PROCESS
 1.How did you plan your website structure? 
 
 - Sketched page sections
-- 
+
 - listed required HTML elements
   
 - planned semantic structure
